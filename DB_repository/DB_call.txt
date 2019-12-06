@@ -1,0 +1,5 @@
+
+int DB_call(int x, inty)
+{
+	return 0;
+}
